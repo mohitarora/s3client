@@ -1,3 +1,6 @@
+s3client
+========
+
 This module provides classes to uploaded files to Amazon S3 using JClouds Library.
 
 Main Class: AwsS3WrapperImpl
